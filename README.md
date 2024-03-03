@@ -1,2 +1,1 @@
-# meta-front-end-developer-capstone
- Projeto final curso meta-front-end-developer-capstone no Coursera
+# My capstone project for the Meta Front-End Developer Professional Certificate
